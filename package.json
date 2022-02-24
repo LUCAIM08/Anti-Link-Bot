@@ -1,0 +1,22 @@
+{
+  "name": "anti-link-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUCAIM08/Anti-Link-Bot.git"
+  },
+  "author": "Luca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUCAIM08/Anti-Link-Bot/issues"
+  },
+  "homepage": "https://github.com/LUCAIM08/Anti-Link-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
